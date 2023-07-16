@@ -1,1 +1,1 @@
-this file B is created on Branch B
+this file B is created on Branch B , this file B has been modified on UI side 
