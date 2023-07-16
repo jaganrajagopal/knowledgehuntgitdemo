@@ -4,4 +4,4 @@ first changes on fileB
 
 second changes on fileB
 
-
+Third changes on fileB
