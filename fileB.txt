@@ -1,1 +1,3 @@
 this file B is created on Branch B
+
+first changes on fileB
